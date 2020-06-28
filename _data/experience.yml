@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Mid Level System Analyst
+- company: Quality Nextech
+  position: Mid Level System Analyst
+  duration: Sept, 2018 &mdash; Present
+  summary: I work mainly on the backend of the Registro Nacional de Sinistros portal, implementing corrective and evolutionary solutions using Spring and Struts 2, adjusting Oracle database routines, performing unit tests with JUnit and SoapUI to test SOAP and REST services in our container environment using Docker based on the Wildfly server.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Entry Level Developer
+- company: Blumar Turismo
+  position: Entry Level Developer
+  duration:  Jul, 2014 &mdash; Aug, 2018
+  summary: I participated in the process of requirements gathering, development and testing of internal and external systems using VRaptor, Hibernate for object-relational mapping and PostgreSQL database. In addition to the Tomcat and Jetty container servlets.
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Internship
+- company: Internship
+  position: Entry Level Developer
+  duration:  Oct, 2012 &mdash; Jun, 2014
+  summary: Performed adjustments to the company's portals, developed routines and new features as well as their tests. I worked with VRaptor, Hibernate, PostgreSQL and client-side technologies Javascript and jQuery.
