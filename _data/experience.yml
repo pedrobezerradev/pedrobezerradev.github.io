@@ -1,13 +1,13 @@
 # Jobs
-# Mid Level System Analyst
+# System Analyst
 - company: Quality Nextech
-  position: Mid Level System Analyst
+  position: System Analyst
   duration: Sept, 2018 &mdash; Present
   summary: I work mainly on the backend of the Registro Nacional de Sinistros portal, implementing corrective and evolutionary solutions using Spring and Struts 2, adjusting Oracle database routines, performing unit tests with JUnit and SoapUI to test SOAP and REST services in our container environment using Docker based on the Wildfly server.
 
-# Entry Level Developer
+# Junior Developer
 - company: Blumar Turismo
-  position: Entry Level Developer
+  position: Junior Developer
   duration:  Jul, 2014 &mdash; Aug, 2018
   summary: I participated in the process of requirements gathering, development and testing of internal and external systems using VRaptor, Hibernate for object-relational mapping and PostgreSQL database. In addition to the Tomcat and Jetty container servlets.
 
