@@ -3,16 +3,22 @@
 - company: Quality Nextech
   position: System Analyst
   duration: Sept, 2018 &mdash; Present
-  summary: I work mainly on the backend of the Registro Nacional de Sinistros portal, implementing corrective and evolutionary solutions using Spring and Struts 2, adjusting Oracle database routines, performing unit tests with JUnit and SoapUI to test SOAP and REST services in our container environment using Docker based on the Wildfly server.
+  summary: I work in CNSeg using Spring and SpringBoot, adjusting routines in the Oracle database, performing tests of SOAP/REST services and in general configurations of servers using WildFly and Docker.
 
 # Junior Developer
 - company: Blumar Turismo
   position: Junior Developer
   duration:  Jul, 2014 &mdash; Aug, 2018
-  summary: I participated in the process of requirements gathering, development and testing of internal and external systems using VRaptor, Hibernate for object-relational mapping and PostgreSQL database. In addition to the Tomcat and Jetty container servlets.
+  summary: In addition to the development using VRaptor, Spring, Hibernate, JPA and PostgreSQL, I participated in the process of requirements gathering, planning, testing and implementation of applications.
 
 # Internship
 - company: Blumar Turismo
   position: Internship
   duration:  Oct, 2012 &mdash; Jun, 2014
-  summary: Performed adjustments to the company's portals, developed routines and new features as well as their tests. I worked with VRaptor, Hibernate, PostgreSQL and client-side technologies Javascript and jQuery.
+  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
+
+# Web Developer
+- company: MindTek
+  position: Web Developer
+  duration:  Fev, 2012 &mdash; Oct, 2012
+  summary: I worked at TRT/RJ, meeting customer demands, developing Portlets using Liferay. I also made adjustments to the internal and external portals using HTML, CSS, JavaScript and jQuery.

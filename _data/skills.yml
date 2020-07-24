@@ -1,7 +1,11 @@
 # Skills
 # Programming Languages
-- skill: Programming Languages and Frameworks
-  description: Java, Javascript, Spring, Spring Boot.
+- skill: Programming Languages
+  description: Java and Javascript.
+
+# Frameworks
+- skill: Frameworks
+  description: Spring and Spring Boot.
 
 # Databases
 - skill: Databases
