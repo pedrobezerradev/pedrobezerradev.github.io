@@ -14,18 +14,18 @@
 
 # Junior Developer
 - company: Blumar Turismo
-  position: Programmer
+  position: Junior Developer
   duration:  Jul, 2014 &mdash; Sept, 2018
   summary: Development and maintenance of web-based Java systems using the jQuery, Bootstrap, Hibernate and VRaptor frameworks. In addition to maintaining the PostgreSQL database and the Tomcat container servlet.
 
-# Internship
-#- company: Blumar Turismo
-#  position: Internship
-#  duration:  Oct, 2012 &mdash; Jun, 2014
-#  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
+# Development Intern
+- company: Blumar Turismo
+  position: Development Intern
+  duration:  Oct, 2012 &mdash; Jun, 2014
+  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
 
 # Web Developer
-#- company: MindTek
-#  position: Web Developer
-#  duration:  Fev, 2012 &mdash; Oct, 2012
-#  summary: I worked at TRT/RJ, meeting customer demands, developing Portlets using Liferay. I also made adjustments to the internal and external portals using HTML, CSS, JavaScript and jQuery.
+- company: MindTek
+  position: Web Developer
+  duration:  Fev, 2012 &mdash; Oct, 2012
+  summary: I worked at TRT/RJ, meeting customer demands, developing Portlets using Liferay. I also made adjustments to the internal and external portals using HTML, CSS, JavaScript and jQuery.
