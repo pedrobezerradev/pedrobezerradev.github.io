@@ -19,10 +19,10 @@
   summary: Development and maintenance of web-based Java systems using the jQuery, Bootstrap, Hibernate and VRaptor frameworks. In addition to maintaining the PostgreSQL database and the Tomcat container servlet.
 
 # Intern
-#- company: Blumar Turismo
-#  position: Intern
-#  duration:  Oct, 2012 &mdash; Jun, 2014
-#  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
+- company: Blumar Turismo
+  position: Intern
+  duration:  Nov, 2012 &mdash; Jun, 2014
+  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
 
 # Web Developer
 #- company: MindTek
