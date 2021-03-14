@@ -4,7 +4,7 @@
 - company: GMF Saneamento
   position: System Analyst
   duration: Aug, 2020 &mdash; Present
-  summary: Development of web and mobile applications using Java, Android and Angular 2+.
+  summary: I work in the development of RESTful services with JAX-RS in the java language and with Angular 2+ and Bootstrap for building web pages. Using GIT for version control and the Oracle database.
 
 # System Analyst
 - company: Quality S.A
@@ -14,13 +14,13 @@
 
 # Programmer
 - company: Blumar Turismo
-  position: Programmer
+  position: Full Stack Developer
   duration:  Jul, 2014 &mdash; Sept, 2018
   summary: Development and maintenance of web-based Java systems using the jQuery, Bootstrap, Hibernate and VRaptor frameworks. In addition to maintaining the PostgreSQL database and the Tomcat container servlet.
 
 # Intern
 - company: Blumar Turismo
-  position: Intern
+  position: Development Intern
   duration:  Nov, 2012 &mdash; Jun, 2014
   summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
 

@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Pedro Bezerra"
-resume_title:                   "System Analyst"
+resume_title:                   "Full Stack Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "pedroegbezerra@gmail.com"
@@ -48,7 +48,7 @@ resume_social_links:
   resume_github_url:            "https://github.com/eugenissimo"
   resume_twitter_url:           "http://twitter.com/eugenissimo"
   # resume_dribbble_url:          "insert Dribbble URL here"
-  # resume_facebook_url:          "insert Facebook URL here"
+  resume_facebook_url:          "https://www.facebook.com/eugenissimo/"
   resume_linkedin_url:          "https://www.linkedin.com/in/eugenissimo"
   resume_instagram_url:         "https://www.instagram.com/eugenissimo"
   # resume_website_url:           "insert Website URL here"
