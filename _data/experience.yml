@@ -1,20 +1,20 @@
 # Jobs
 
-# System Analyst
+# Full Stack Developer
 - company: GMF Saneamento
-  position: System Analyst
+  position: Full Stack Developer
   duration: Aug, 2020 &mdash; Present
   summary: I work in the development of RESTful services with JAX-RS in the java language and with Angular 2+ and Bootstrap for building web pages. Using GIT for version control and the Oracle database.
 
-# System Analyst
+# Full Stack Developer
 - company: Quality S.A
-  position: System Analyst
+  position: Full Stack Developer
   duration: Sept, 2018 &mdash; Aug, 2020
   summary: I worked in Fenaseg, meeting customer demands, developing solutions with the Java language through Struts 2 and Spring Boot frameworks, performing tests of REST services, adjusting routines in the Oracle database and deploying systems using the Docker container and the WildFly server.
 
-# Programmer
+# Junior
 - company: Blumar Turismo
-  position: Full Stack Developer
+  position: Junior Java Developer
   duration:  Jul, 2014 &mdash; Sept, 2018
   summary: Development and maintenance of web-based Java systems using the jQuery, Bootstrap, Hibernate and VRaptor frameworks. In addition to maintaining the PostgreSQL database and the Tomcat container servlet.
 
