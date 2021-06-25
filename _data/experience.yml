@@ -6,23 +6,23 @@
   duration: Aug, 2020 &mdash; Present
   summary: I work in the development of RESTful services with JAX-RS in the java language and with Angular 2+ and Bootstrap for building web pages. Using GIT for version control and the Oracle database.
 
-# Full Stack Developer
+# Back End Developer
 - company: Quality S.A
-  position: Full Stack Developer
+  position: Back End Developer
   duration: Sept, 2018 &mdash; Aug, 2020
-  summary: I worked in Fenaseg, meeting customer demands, developing solutions with the Java language through Struts 2 and Spring Boot frameworks, performing tests of REST services, adjusting routines in the Oracle database and deploying systems using the Docker container and the WildFly server.
+  summary: I worked outsourced at CNSEG developing solutions for the company internal and external portals using the Java language, performing webservice call tests and integration tests. Technologies: Struts 2, Docker, JAX-WS, SVN and Oracle.
 
 # Junior
 - company: Blumar Turismo
   position: Junior Java Developer
   duration:  Jul, 2014 &mdash; Sept, 2018
-  summary: Development and maintenance of web-based Java systems using the jQuery, Bootstrap, Hibernate and VRaptor frameworks. In addition to maintaining the PostgreSQL database and the Tomcat container servlet.
+  summary: Development and support of web-focused Java systems using VRaptor, Hibernate, Bootstrap and jQuery technologies. In addition to Tomcat web container, SVN control version and PostgreSQL.
 
 # Intern
-- company: Blumar Turismo
-  position: Development Intern
-  duration:  Nov, 2012 &mdash; Jun, 2014
-  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
+#- company: Blumar Turismo
+#  position: Development Intern
+#  duration:  Nov, 2012 &mdash; Jun, 2014
+#  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
 
 # Web Developer
 #- company: MindTek
