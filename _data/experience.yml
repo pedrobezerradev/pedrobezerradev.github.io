@@ -1,16 +1,22 @@
 # Jobs
 
 # Full Stack Developer
+- company: Spread Tecnologia
+  position: Full Stack Developer
+  duration: Jul, 2021 &mdash; Present
+  summary: I work in a bidding system for the client Caixa Economica Federal using Scrum agile methodology, Java and Typescript languages, Angular framework, SQL Server database and Jenkins automation server.
+
+# Full Stack Developer
 - company: GMF Saneamento
   position: Full Stack Developer
-  duration: Aug, 2020 &mdash; Present
+  duration: Aug, 2020 &mdash; Jul, 2021
   summary: I work in the development of RESTful services with JAX-RS in the java language and with Angular 2+ and Bootstrap for building web pages. Using GIT for version control and the Oracle database.
 
-# Back End Developer
+# Java Developer
 - company: Quality S.A
-  position: Back End Developer
+  position: Java Developer
   duration: Sept, 2018 &mdash; Aug, 2020
-  summary: I worked outsourced at CNSEG developing solutions for the company internal and external portals using the Java language, performing webservice call tests and integration tests. Technologies: Struts 2, Docker, JAX-WS, SVN and Oracle.
+  summary: I worked outsourced at CNSEG developing solutions for the company internal and external portals using the Java language, performing webservice call tests and integration tests. Technologies -> Struts 2, Docker, JAX-WS, SVN and Oracle.
 
 # Junior
 - company: Blumar Turismo
