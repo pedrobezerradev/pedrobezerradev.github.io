@@ -21,7 +21,7 @@ resume_contact_telephone:       "XXXX-XXXXX"
 resume_contact_address:         "Rio de Janeiro, RJ - Brazil"
 
 resume_header_contact_info:     "Rio de Janeiro, RJ - Brazil • pedroegbezerra@gmail.com"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Experience in developing web and desktop applications, having participated in internal and external e-commerce projects, financial systems and database routines. Focus on Java and relational databases.</p>"
 
