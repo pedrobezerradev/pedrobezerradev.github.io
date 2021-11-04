@@ -50,7 +50,7 @@ resume_social_links:
   # resume_dribbble_url:          "insert Dribbble URL here"
   # resume_facebook_url:          "https://www.facebook.com/eugenissimo/"
   resume_linkedin_url:          "https://br.linkedin.com/in/eugenissimo"
-  resume_instagram_url:         "https://www.instagram.com/eugenissimo"
+  # resume_instagram_url:         "https://www.instagram.com/eugenissimo"
   # resume_website_url:           "insert Website URL here"
   # resume_medium_url:            "insert Medium URL here"
 resume_print_social_links:      true
