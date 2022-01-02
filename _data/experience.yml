@@ -1,37 +1,31 @@
 # Jobs
 
+# Senior Developer
+- company: Atos
+  position: Senior Developer
+  duration: Dec, 2021 &mdash; Present
+  summary: Development of applications based on Java 8, JSF and Spring Batch.
+
 # Full Stack Developer
 - company: Spread Tecnologia
   position: Full Stack Developer
-  duration: Jul, 2021 &mdash; Present
-  summary: I work in a bidding system for the client Caixa Economica Federal using Scrum agile methodology, Java and Typescript languages, Angular framework, SQL Server database and Jenkins automation server.
+  duration: Jul, 2021 &mdash; Nov, 2021
+  summary: I worked providing customer service to Caixa Econômica Federal, developing solutions with Java 8 and Angular 6 technologies. Other related technologies TypeScript, Maven, GIT and SQL Server.
 
 # Full Stack Developer
 - company: GMF Saneamento
   position: Full Stack Developer
   duration: Aug, 2020 &mdash; Jul, 2021
-  summary: I work in the development of RESTful services with JAX-RS in the java language and with Angular 2+ and Bootstrap for building web pages. Using GIT for version control and the Oracle database.
+  summary: I worked in the development and maintenance of RESTful services with JAX-RS. Using Java 8 in the backend and Angular 2+ to build the frontend. Using GIT for version control and Oracle database.
 
-# Java Developer
+# Full Stack Developer
 - company: Quality S.A
-  position: Java Developer
+  position: Full Stack Developer
   duration: Sept, 2018 &mdash; Aug, 2020
-  summary: I worked outsourced at CNSEG developing solutions for the company internal and external portals using the Java language, performing webservice call tests and integration tests. Technologies -> Struts 2, Docker, JAX-WS, SVN and Oracle.
+  summary: I worked allocated at CNSEG meeting customer demands developing solutions with the Java language through the Struts 2 and Spring Boot frameworks, performing tests of REST services, adjusting routines in the Oracle database and deploying systems using the Docker container and the WildFly server.
 
-# Junior
+# Junior Developer
 - company: Blumar Turismo
-  position: Junior Java Developer
+  position: Junior Developer
   duration:  Jul, 2014 &mdash; Sept, 2018
-  summary: Development and support of web-focused Java systems using VRaptor, Hibernate, Bootstrap and jQuery technologies. In addition to Tomcat web container, SVN control version and PostgreSQL.
-
-# Intern
-#- company: Blumar Turismo
-#  position: Development Intern
-#  duration:  Nov, 2012 &mdash; Jun, 2014
-#  summary: I served the company's portals developing solutions using the Java language through the VRaptor and Spring frameworks, using the Hibernate and JPA ORMs and the PostgreSQL database.
-
-# Web Developer
-#- company: MindTek
-#  position: Web Developer
-#  duration:  Fev, 2012 &mdash; Oct, 2012
-#  summary: I worked at TRT/RJ, meeting customer demands, developing Portlets using Liferay. I also made adjustments to the internal and external portals using HTML, CSS, JavaScript and jQuery.
+  summary: Development of web-focused Java systems using VRaptor, Hibernate, Bootstrap and jQuery.

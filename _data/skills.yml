@@ -1,12 +1,19 @@
-# Skills
-# Programming Languages
-- skill: Programming Languages
-  description: Java and JavaScript.
+# Databases
+- skill: Databases
+  description: Oracle, SQL Server, PostgreSQL.
 
 # Frameworks
 - skill: Frameworks
-  description: Angular and Spring Boot.
+  description: Angular 6, Richfaces, Primefaces.
 
-# Databases
-- skill: Databases
-  description: PostgreSQL and Oracle.
+# Languages
+- skill: Languages
+  description: Java 8, TypeScript.
+
+# ORM
+- skill: ORM
+  description: JPA, Hibernate.
+
+# VCS
+- skill: VCS
+  description: SVN, GIT.
