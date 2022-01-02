@@ -1,31 +1,67 @@
 # Jobs
 
-# Senior Developer
+# Senior Java Developer
 - company: Atos
-  position: Senior Developer
+  position: Senior Java Developer
   duration: Dec, 2021 &mdash; Present
-  summary: Development of applications based on Java 8, JSF and Spring Batch.
+  summary:
+   '● Build Automation: Maven
+    ● Framework: PrimeFaces, RichFaces
+    ● Language: Java 8
+    ● ORM: JPA, Hibernate
+    ● VCS: GIT'
+
 
 # Full Stack Developer
 - company: Spread Tecnologia
   position: Full Stack Developer
   duration: Jun, 2021 &mdash; Nov, 2021
-  summary: I worked providing customer service to Caixa Econômica Federal, developing solutions with Java 8 and Angular 6 technologies. Other related technologies TypeScript, Maven, GIT and SQL Server.
+  summary: 
+   '● Build Automation: Maven
+    ● Database: SQL Server
+    ● Framework: Angular 6
+    ● Language: Java 8, TypeScript
+    ● Server: WildFly 10
+    ● WebService API: JAX-RS
+    ● ORM: JPA, Hibernate
+    ● VCS: GIT'
 
 # Full Stack Developer
 - company: GMF Saneamento
   position: Full Stack Developer
   duration: Aug, 2020 &mdash; Jun, 2021
-  summary: I worked in the development and maintenance of RESTful services with JAX-RS. Using Java 8 in the backend and Angular 2+ to build the frontend. Using GIT for version control and Oracle database.
+  summary: 
+   '● Build Automation: Maven
+    ● Database: Oracle
+    ● Framework: Angular 6
+    ● Language: Java 8, TypeScript
+    ● Server: WildFly 10
+    ● WebService API: JAX-RS
+    ● ORM: JPA, Hibernate
+    ● VCS: GIT'
 
-# Full Stack Developer
+# Java Software Developer
 - company: Quality S.A
-  position: Full Stack Developer
+  position: Java Software Developer
   duration: Sept, 2018 &mdash; Aug, 2020
-  summary: I worked allocated at CNSEG meeting customer demands developing solutions with the Java language through the Struts 2 and Spring Boot frameworks, performing tests of REST services, adjusting routines in the Oracle database and deploying systems using the Docker container and the WildFly server.
+  summary: 
+   '● Build Automation: Maven
+    ● Database: Oracle
+    ● Framework: Struts 2
+    ● Language: Java 7
+    ● Server: WildFly 10
+    ● WebService API: JAX-WS
+    ● ORM: JPA, Hibernate
+    ● VCS: SVN'
 
-# Junior Developer
+# Junior Java Developer
 - company: Blumar Turismo
-  position: Junior Developer
+  position: Junior Java Developer
   duration:  Jul, 2014 &mdash; Sept, 2018
-  summary: Development of web-focused Java systems using VRaptor, Hibernate, Bootstrap and jQuery.
+  summary:  
+   '● Database: PostgreSQL
+    ● Framework: VRaptor
+    ● Language: Java 7
+    ● Server: Tomcat 7
+    ● ORM: JPA, Hibernate
+    ● VCS: SVN'
