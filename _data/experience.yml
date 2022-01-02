@@ -5,7 +5,7 @@
   position: Senior Java Developer
   duration: Dec, 2021 &mdash; Present
   summary:
-    '● Build Automation: Maven' +
+    '● Build Automation: Maven' + <br> +
     '● Framework: PrimeFaces, RichFaces' +
     '● Language: Java 8' +
     '● ORM: JPA, Hibernate' +
