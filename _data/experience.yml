@@ -4,28 +4,28 @@
 - company: Atos
   position: Senior Java Developer
   duration: Dec, 2021 &mdash; Present
-  summary: '● Build Automation: Maven <br \> ● Framework: PrimeFaces, RichFaces <br \> ● Language: Java 8 <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
+  summary: '● Language: Java 8 <br \> ● Build Automation: Maven <br \>● Framework: PrimeFaces, RichFaces <br \>  ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
 
 # Full Stack Developer
 - company: Spread Tecnologia
   position: Full Stack Developer
   duration: Jun, 2021 &mdash; Nov, 2021
-  summary: '● Build Automation: Maven <br \> ● Database: SQL Server <br \> ● Framework: Angular 6 <br \> ● Language: Java 8, TypeScript <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
+  summary: '● Language: Java 8, TypeScript <br \> ● Database: SQL Server <br \> ● Build Automation: Maven <br \> ● Framework: Angular 6 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
 
 # Full Stack Developer
 - company: GMF Saneamento
   position: Full Stack Developer
   duration: Aug, 2020 &mdash; Jun, 2021
-  summary: '● Build Automation: Maven <br \> ● Database: Oracle <br \> ● Framework: Angular 6 <br \> ● Language: Java 8, TypeScript <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
+  summary: '● Language: Java 8, TypeScript <br \> ● Database: Oracle <br \> ● Build Automation: Maven <br \> ● Framework: Angular 6 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
 
 # Java Software Developer
 - company: Quality S.A
   position: Java Software Developer
   duration: Sept, 2018 &mdash; Aug, 2020
-  summary: '● Build Automation: Maven <br \> ● Database: Oracle <br \> ● Framework: Struts 2 <br \> ● Language: Java 7 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-WS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: SVN'
+  summary: '● Language: Java 7 <br \> ● Database: Oracle <br \> ● Build Automation: Maven <br \> ● Framework: Struts 2 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-WS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: SVN'
 
 # Junior Java Developer
 - company: Blumar Turismo
   position: Junior Java Developer
   duration:  Jul, 2014 &mdash; Sept, 2018
-  summary: '● Database: PostgreSQL <br \> ● Framework: VRaptor <br \> ● Language: Java 7 <br \> ● Server: Tomcat 7 <br \> ● ORM: JPA, Hibernate <br \> ● VCS: SVN'
+  summary: '● Language: Java 7 <br \> ● Database: PostgreSQL <br \> ● Framework: VRaptor <br \> ● Server: Tomcat 7 <br \> ● ORM: JPA, Hibernate <br \> ● VCS: SVN'
