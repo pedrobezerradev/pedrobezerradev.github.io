@@ -13,13 +13,13 @@
   summary: '● Language: Java 8, TypeScript <br \> ● Database: SQL Server <br \> ● Build Automation: Maven <br \> ● Framework: Angular 6 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
 
 # Full Stack Developer
-- company: GMF Saneamento
+- company: GMF
   position: Full Stack Developer
   duration: Aug, 2020 &mdash; Jun, 2021
   summary: '● Language: Java 8, TypeScript <br \> ● Database: Oracle <br \> ● Build Automation: Maven <br \> ● Framework: Angular 6 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
 
 # Java Software Developer
-- company: Quality S.A
+- company: Quality Software
   position: Java Software Developer
   duration: Sept, 2018 &mdash; Aug, 2020
   summary: '● Language: Java 7 <br \> ● Database: Oracle <br \> ● Build Automation: Maven <br \> ● Framework: Struts 2 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-WS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: SVN'
