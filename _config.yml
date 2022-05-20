@@ -14,13 +14,13 @@ resume_name:                    "Pedro Bezerra"
 resume_title:                   "Java Software Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "pedroegbezerra@gmail.com"
+resume_contact_email:           "pedrobezerradev@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "XXXX-XXXXX"
 resume_contact_address:         "Rio de Janeiro, RJ - Brazil"
 
-resume_header_contact_info:     "Rio de Janeiro, RJ - Brazil • pedroegbezerra@gmail.com"
+resume_header_contact_info:     "Rio de Janeiro, RJ - Brazil • pedrobezerradev@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Experience in developing web and desktop applications, having participated in internal and external e-commerce projects, financial systems and database routines. Focus on Java and relational databases.</p>"
@@ -46,13 +46,10 @@ resume_section_links:           true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/pedrobezerradev"
-  resume_twitter_url:           "http://twitter.com/eugenissimo"
-  # resume_dribbble_url:          "insert Dribbble URL here"
-  # resume_facebook_url:          "https://www.facebook.com/eugenissimo/"
+  resume_twitter_url:           "http://twitter.com/pedrobezerradev"
   resume_linkedin_url:          "https://br.linkedin.com/in/pedrobezerradev"
-  # resume_instagram_url:         "https://www.instagram.com/eugenissimo"
-  # resume_website_url:           "insert Website URL here"
-  # resume_medium_url:            "insert Medium URL here"
+  # resume_facebook_url:          "https://www.facebook.com/pedrobezerradev/"
+  # resume_instagram_url:         "https://www.instagram.com/pedrobezerradev"
 resume_print_social_links:      true
 
 # Design settings
