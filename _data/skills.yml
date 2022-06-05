@@ -1,10 +1,10 @@
 # Databases
 - skill: Databases
-  description: Oracle, SQL Server, PostgreSQL.
+  description: Oracle.
 
 # Frameworks
 - skill: Frameworks
-  description: Angular 6, RichFaces, PrimeFaces.
+  description: Angular 6, Spring Boot.
 
 # Languages
 - skill: Languages
@@ -16,4 +16,4 @@
 
 # VCS
 - skill: VCS
-  description: SVN, GIT.
+  description: GIT.
