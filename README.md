@@ -1,2 +1,2 @@
 # pedrobezerradev.github.io
-A personal resume made with Jekyll and GitHub Pages.
+Just a personal resume made with Jekyll and GitHub Pages.
