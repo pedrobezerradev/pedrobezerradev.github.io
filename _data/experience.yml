@@ -3,29 +3,29 @@
 # Senior Java Developer
 - company: Atos
   position: Senior Software Engineer
-  duration: Dec, 2021 &mdash; Present
+  duration: 2021/12 &mdash; Present
   summary: '● Language: Java 8 <br \> ● Database: Oracle <br \> ● Frameworks: Spring Boot <br \> ● Agile: Kaban/Scrum <br \> ● Stream: Kafka <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT <br \> ● Test: JUnit, Jacoco, Mockito, SonarQube'
 
 # Full Stack Developer
 - company: Spread Tecnologia
   position: Full Stack Developer
-  duration: Jun, 2021 &mdash; Nov, 2021
+  duration: 2021/06 &mdash; 2021/11
   summary: '● Language: Java 8, TypeScript <br \> ● Database: SQL Server <br \> ● Build Automation: Maven <br \> ● Framework: Angular 6 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
 
 # Full Stack Developer
-- company: GMF
+- company: GMF Saneamento
   position: Full Stack Developer
-  duration: Aug, 2020 &mdash; Jun, 2021
+  duration: 2020/08 &mdash; 2021/06
   summary: '● Language: Java 8, TypeScript <br \> ● Database: Oracle <br \> ● Build Automation: Maven <br \> ● Framework: Angular 6 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-RS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: GIT'
 
 # Java Software Developer
 - company: Quality Software
   position: Java Software Developer
-  duration: Sept, 2018 &mdash; Aug, 2020
+  duration: 2018/09 &mdash; 2020/08
   summary: '● Language: Java 7 <br \> ● Database: Oracle <br \> ● Build Automation: Maven <br \> ● Framework: Struts 2 <br \> ● Server: WildFly 10 <br \> ● WebService API: JAX-WS <br \> ● ORM: JPA, Hibernate <br \> ● VCS: SVN'
 
 # Junior Java Developer
 - company: Blumar Turismo
   position: Junior Java Developer
-  duration:  Jul, 2014 &mdash; Sept, 2018
+  duration:  2014/07 &mdash; 2018/09
   summary: '● Language: Java 7 <br \> ● Database: PostgreSQL <br \> ● Framework: VRaptor <br \> ● Server: Tomcat 7 <br \> ● ORM: JPA, Hibernate <br \> ● VCS: SVN'
