@@ -1,19 +1,11 @@
-# Databases
-- skill: Databases
-  description: Oracle.
+# Languages
+- skill: Languages
+  description: Java 17, TypeScript.
 
 # Frameworks
 - skill: Frameworks
   description: Angular 6, Spring Boot.
 
-# Languages
-- skill: Languages
-  description: Java 8, TypeScript.
-
-# ORM
-- skill: ORM
-  description: JPA, Hibernate.
-
-# VCS
-- skill: VCS
-  description: GIT.
+# Databases
+- skill: Databases
+  description: Oracle, MySQL, PostgreSQL.
