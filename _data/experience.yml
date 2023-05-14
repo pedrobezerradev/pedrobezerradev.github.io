@@ -5,7 +5,8 @@
   summary: '
   I use Java in conjunction with the SpringBoot framework to develop web systems and use Oracle Database as a database. I use Kafka for event processing and Jenkins to automate the onboarding process. I use Sonarqube for quality analysis, JUnit for unit testing and Git for versioning.
   <br \>
-  ● Microservices ● Java 17 ● Hibernate ● Oracle Database ● Spring Boot ● Kafka ● Jenkins ● Sonarqube ● JUnit 5 ● Git
+  <br \>
+  ● Microservices ● Java 17 ● Oracle ● Spring Boot ● Jenkins ● Sonarqube ● JUnit 5 ● Git
   '
 
 # Full Stack Developer
@@ -15,7 +16,8 @@
   summary: '
   I used Java, TypeScript and Angular to build web systems and developed queries against Microsoft SQL Server databases. Managed dependencies with Maven, deployed to WildFly servers and integrated applications with Jenkins. I teamed up with Git for versioning.
   <br \>
-  ● Microservices ● Java 8 ● Hibernate ● Jenkins ● Microsoft SQL Server ● TypeScript ● Maven ● WildFly ● Angular 9
+  <br \>
+  ● Microservices ● Java 8 ● Jenkins ● SQL Server ● TypeScript ● Maven ● WildFly ● Angular
   '
 
 # Full Stack Developer
@@ -25,7 +27,8 @@
   summary: '
   I used the Java language and its specifications like Hibernate and JAX-RS to develop web systems, Oracle databases to create SQL queries, TypeScript and Angular to create web resources. Managed application dependencies with Maven and deployment on WildFly servers. I used Git to version and collaborate on team projects.
   <br \>
-  ● Java 8 ● Hibernate ● Oracle Database ● TypeScript ● JAX-RS ● Maven ● WildFly ● Angular 6.1.10 ● Git
+  <br \>
+  ● Java 8 ● Hibernate ● Oracle ● TypeScript ● JAX-RS ● Maven ● WildFly ● Angular ● Git
   '
 
 # Backend Developer
@@ -35,6 +38,7 @@
   summary: '
   I used the Struts 2 framework to develop web applications in Java and managed Oracle databases. I collaborated on internal projects using SVN and managed dependencies with Maven. To expose web services, I used the JAX-WS specification and deployed applications on WildFly servers. I also used the JPA API to facilitate data access.
   <br \>
+  <br \>
   ● Java 7 ● Hibernate ● Oracle Database ● Struts ● SVN ● Maven ● JAX-WS ● WildFly ● JPA'
 
 # Junior Developer
@@ -43,5 +47,6 @@
   duration:  2014/07 &mdash; 2018/09
   summary: '
   I developed web systems using Java, VRaptor framework and interactive resources using the jQuery library. Managed PostgreSQL databases by creating SQL queries and deploying applications on Apache Tomcat servers. I also collaborated on team projects using SVN and utilized the JPA API for easy data access.
+  <br \>
   <br \>
   ● Java 7 ● JavaScript ● PostgreSQL ● JQuery ● Hibernate ● VRaptor ● SVN ● JPA ● Tomcat'
