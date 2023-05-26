@@ -1,11 +1,11 @@
 # Languages
 - skill: Languages
-  description: Java 17, TypeScript.
+  description: Java 8+, TypeScript.
 
 # Frameworks
 - skill: Frameworks
-  description: Angular 6.1.10, Spring Boot.
+  description: Angular 6+, Spring Boot.
 
 # Databases
 - skill: Databases
-  description: Oracle, MySQL, PostgreSQL.
+  description: Oracle, MySQL.
